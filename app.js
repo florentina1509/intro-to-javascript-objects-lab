@@ -140,5 +140,5 @@ game.catchPokemon = function(pokemonObj) {
 
   const count = game.partyCount();
   console.log('Number of Pokémon in party:', count);
-
+}
   console.log('Final game state:', game);
